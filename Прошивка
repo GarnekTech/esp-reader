@@ -5,12 +5,11 @@
 
 GyverOLED<SSD1306_128x64, OLED_BUFFER> oled;
 
-// Пины для ESP32-S3 SuperMini
 #define PIN_UP   5
 #define PIN_SEL  6
 #define PIN_DOWN 7
 
-#define SLEEP_HOLD_MS 3000 // Время удержания кнопки для выключения (3 секунды)
+#define SLEEP_HOLD_MS 3000
 #define MAX_CHARS_PER_LINE 20
 
 String fileList[10];
