@@ -40,6 +40,6 @@
 
 • **В папке с проектом создаем папку "data" и закидываем туда наш текст в формате UTF-8**
 
-• **В Arduino IDE нажимаем Ctrl + Shift + P и пишем "LittleFS" нажимаем "Upload LittleFS to Pico/ESP8266/ESP32" ждем**
+• **В Arduino IDE нажимаем Ctrl + Shift + P и пишем "LittleFS" нажимаем "Upload LittleFS" ждем**
 
 • **Готово**
